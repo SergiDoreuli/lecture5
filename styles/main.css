@@ -40,6 +40,7 @@ h1 {
 
   .box2 {
     margin-top: 100px;
+    margin-left: 15px;
     width: 48%;
     display: inline-block;
     background-image: url(../images/html.png);

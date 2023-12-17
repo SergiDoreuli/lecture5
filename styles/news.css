@@ -1,0 +1,60 @@
+h1 {
+    display: inline-block;
+}
+
+ul {
+    list-style-type: none;
+}
+
+nav {
+    margin-left: 50px;
+    display: inline-block;
+    width: 50%;
+    position: absolute;
+}
+
+a {
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+}
+
+h1 {
+    margin-top: 50px;
+}
+
+.container {
+    border: solid black;
+    align-items: center; 
+   }
+   .image {
+    display: inline-block;
+   }
+   img {
+    max-width: 200px;
+    max-height:200px;
+  }
+  
+  .text {
+    font-size: 20px;
+    display: inline-block;
+    width: 70%;
+    position: absolute;
+  }
+
+  .facebook {
+    width: 20px;
+    height: 20px;
+}
+.youtube {
+    width: 20px;
+    height: 20px;  
+}
+footer {
+    margin-top: 140px;
+    margin-left: 40px;
+}
+
+#facebook {
+    display: inline-block;
+}
