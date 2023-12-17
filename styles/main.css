@@ -1,0 +1,44 @@
+img {
+    height: 200px;
+    width: 200px;
+}
+
+
+li {
+    display: inline-block;
+    width: 50px;
+    margin: 20px;
+    inline-size: fit-content;
+}
+nav {
+    display: inline-block;
+    width: 50%;
+    top: -100px;
+    position: relative;
+}
+h1 {
+    display: inline-block;
+    margin-inline-start: 80px;
+  }
+
+  .box1 {
+    width: 80%;
+    height: 200px;
+    background-color: bisque;
+    background-image: url(../images/image.png);
+    margin-left: 100px 
+  }
+  p {
+    color: white;
+    font-size: xx-large;
+  }
+
+  .box2 {
+    margin-top: 100px;
+    background-color: bisque;
+    width: 48%;
+    display: inline-block;
+  }
+.p2 {
+    color: royalblue;
+}
