@@ -3,6 +3,11 @@ img {
     width: 200px;
 }
 
+a {
+    color: azure;
+    font-size: x-large;
+    text-decoration: none;
+}
 
 li {
     display: inline-block;
@@ -35,10 +40,33 @@ h1 {
 
   .box2 {
     margin-top: 100px;
-    background-color: bisque;
     width: 48%;
     display: inline-block;
+    background-image: url(../images/html.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
   }
 .p2 {
-    color: royalblue;
+    color: cornsilk;
+}
+body {
+    background-image: url(../images/GDqpEN.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.facebook {
+    width: 20px;
+    height: 20px;
+}
+.youtube {
+    width: 20px;
+    height: 20px;  
+}
+footer {
+    margin-top: 35px;
+    margin-left: 40px;
+}
+#facebook {
+    display: inline-block;
 }
